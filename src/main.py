@@ -7,7 +7,7 @@ for char in words:
     sleep(0.1)
     print(char, end='', flush=True)
 
-token = input("Insert token here: ")
+token = input("OTUyMTQ0NTUwOTM0MjQxMzUx.Yixv1A.hjIOfFyD90ULABEFKpwhs19-PhE")
 
 commands = {
     "restart": {
